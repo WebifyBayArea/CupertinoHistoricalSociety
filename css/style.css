@@ -1791,3 +1791,7 @@ textarea.form-control {
     stroke-dashoffset: -136px;
   }
 }
+
+#logo {
+    border-radius: 50%;
+}
